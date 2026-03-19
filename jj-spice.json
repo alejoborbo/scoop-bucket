@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/alejoborbo/jj-spice/releases/download/v0.1.0/jj-spice_0.1.0_windows_amd64.zip",
+            "bin": [
+                "jj-spice.exe"
+            ],
+            "hash": "097c0e865bdeb63eed6194bea3a1df519d362bb4ae0b9106cceff46462c8e0ca"
+        }
+    },
+    "homepage": "https://github.com/alejoborbo/jj-spice",
+    "license": "Apache-2.0",
+    "description": "Stacked change requests for Jujutsu VCS"
+}
